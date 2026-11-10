@@ -6,7 +6,7 @@ metadata:
   namespace: flask-demo
 
 spec:
-  replicas: 2
+  replicas: 8
 
   selector:
     matchLabels:
